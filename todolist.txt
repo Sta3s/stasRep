@@ -1,0 +1,14 @@
+The To do list application.
+
+1. In the beginning user can see the white board with different buttons(functions) in the top.
+2. With the help of button -add point- user can add new thing to do in the list, user should firstly name the work to do, for example: tidy living room, and near user can see the check-box.
+3. If user put the cross in this box, the work will be admited as done, just cross out the text.
+4. Second button is named as -dont show done works-. If user tapped on this function, she/he will see only these tasks which are not marked as done. And opposite situation. 
+5. Third button is -set time/dead line-.
+6. User firstly should highlight the task which he/she considers that it must be done till certain time and set time.
+7. After this operation near the task should appear the dead line.
+8. If user hadnt done the task till dead line he/she set, task would have become red colour.
+9. User obviously can add some advanced information in the tasks he-she has already created.
+10. 4th button is -delete-.
+11. User should highlight the task and after that he/she can delete this task forever.
+12. User can highlight some task and add this in his/her calander and set reminder with the help of button -add in calander-.
